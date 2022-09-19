@@ -2,6 +2,7 @@ kniv = 1
 liv = 100
 
 def newgame():
+    print("game over")
     global liv, kniv
     kniv = 1
     liv = 100
